@@ -15,10 +15,13 @@ OpenWeatherMap API: Provides real-time weather data.
 
 # How to Use
 Clone the Repository:
+
 git clone https://github.com/cindyariyo/Weather_App.git
 
 Navigate to the Project Directory:
+
 cd Weather_App
+
 Open index.html in a Web Browser to start using the app.
 
 Enter a City Name in the search box and click the search button to view the weather.
